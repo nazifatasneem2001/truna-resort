@@ -11,7 +11,8 @@
     padding-top: 20px;
     text-align: center;
     color: white;
-    
+    width: 1350px;
+    height: 720px;
 }
 .header h2{
     float: left;
