@@ -3,7 +3,7 @@
     margin: 0;
 }
 .header{
-    height: 80%;
+    height: 100%;
     background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(maldives-resorts-landscape-hd-wallpaper-wallpaper-1920x1080-10wallpaper.com.jpg);
     background-size: cover;
     background-position: center;
@@ -11,7 +11,8 @@
     padding-top: 20px;
     text-align: center;
     color: white;
-   
+    width: 1350px;
+    height: 720px;
 }
 .header h2{
     float: left;
